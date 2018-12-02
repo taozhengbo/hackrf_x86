@@ -1,0 +1,1 @@
+hackrf_transfer.exe -t dmr.iq -f 439600000 -s 8000000 -a 1 -l 28 -x 27 -C -90 -R
